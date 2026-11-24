@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Utah Marketing Agencies 2026"
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - name: "Brand Captain"
+    website: "https://thebrandcaptain.com/"
+date-released: 2026-11-24
+version: "1.0.0"
+license: CC-BY-4.0
+doi: "10.5281/zenodo.24512883"
+url: "https://thebrandcaptain.com/directory/"
+keywords: [marketing agencies, Utah, local business, directory]
